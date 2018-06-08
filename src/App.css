@@ -1,0 +1,5 @@
+nav{height: 80px}
+
+a{color: rgb(59, 49, 49)}
+a:hover{color: orange;text-decoration: none}
+.all{position: relative;top:50px}
